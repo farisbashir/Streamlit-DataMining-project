@@ -1,0 +1,1 @@
+web: sh setup.sh && stream lit run data-mining-peoject.py
